@@ -50,7 +50,7 @@
 	<button class="k"> </button> 
 	<button class="d"> </button>
 
-	<embed src= "mglv.mp3" loop="false" autostart="false" hidden="true"></embed> 
+	<embed src= "mglv.mp3" loop="true" autostart="true" hidden="true"></embed> 
 	
 </head>
 <body>
