@@ -1,8 +1,26 @@
 # LAUNCHPAD
+
 <html>
 
 <head>
+
+
+
+	<img class="sans" src= https://ih0.redbubble.net/image.433153552.1459/pp,550x550.u1.jpg>
+
 <style type="text/css">
+
+.color{
+	font-family: sans-serif;
+	background-color: white;
+
+}
+
+
+.sans{
+	width: 1400px;
+	height: 400px;
+}
 .s {
 	
 	width: 100px;
@@ -35,14 +53,18 @@
  background-color: black
 }
 
-{
-
-
-}
+.play{
 	
 
 
+}
+
+
+
 </style>
+
+
+
 
 	<button class="s"> </button>
 	<button class="y"> </button>
@@ -50,7 +72,8 @@
 	<button class="k"> </button> 
 	<button class="d"> </button>
 
-	<embed src= "mglv.mp3" loop="true" autostart="true" hidden="true"></embed> 
+	<embed class="s" src="B.mp3" loop="false" autostart="false" hidden="true"></embed>
+
 	
 </head>
 <body>
